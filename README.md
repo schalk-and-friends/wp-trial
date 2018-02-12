@@ -16,7 +16,7 @@ Here we have a little task for you!
 * We will clone this repo into an empty WordPress installations plugins folder
 * We will enable the plugin in the backend
 * We will```curl``` the demo post created during installation.
-* We will want to see the following:
+* We want to see the following:
 ```
 $ curl -I http://localhost:8080/hello-world
 HTTP/1.1 200 OK
